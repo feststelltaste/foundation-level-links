@@ -20,7 +20,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Stakeholder Mapping](https://manual.advancedproductowner.com/stakeholder-mapping/)
 - [Persona](https://manual.advancedproductowner.com/persona/)
 
-### Qualitätsanforderungen klären
+### Qualitätsanforderungen
 - [Mini-Quality Attribute Workshop](https://www.neverletdown.net/p/mini-quality-attribute-workshop.html)
 - [Blog-Post "Identifikation von Qualitätsanforderungen mit Quality Storming"](https://www.innoq.com/de/articles/2020/03/quality-storming-workshop/)
 - [Talk zu "Quality Storming"](https://www.youtube.com/watch?v=xEZo5hkoN6w&t=3105s)
@@ -28,7 +28,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [arc42 Quality Requirements](https://quality.arc42.org/requirements/)
 - [arc42 Beispiele für Qualitätsanforderungen](https://github.com/arc42/quality-requirements/releases/download/v0.7.6/index.pdf)
 
-### arc42
+### arc42 Architekturentwicklungsmethodik
 - [arc42 Übersicht](https://arc42.org/overview)
 - [arc42 FAQ](https://faq.arc42.org/)
 - [Architecture Communication Canvas](https://canvas.arc42.org/)
@@ -69,6 +69,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 ### Dokumentation
 - [Living Documentation "SalesPoint"- Beispiel Doku](https://st.inf.tu-dresden.de/SalesPoint/salespoint-reference.html)
 - [Living Documentation "SalesPoint - Code-Beispiel](https://github.com/st-tu-dresden/salespoint/blob/10.0.0/src/main/java/org/salespointframework/inventory/InventoryItem.java)
+- [Dokumentationsintegrationswerkzeug "docToolchain"](https://doctoolchain.org/docToolchain/v2.0.x/015_tasks/03_tasks.html)
 
 ### Architekturbewertung
 - [embarc Architektur-Spicker zu "Architekturbewertung"](https://www.embarc.de/img/spicker/Architektur-Spicker4_Architektur-Reviews.pdf)
