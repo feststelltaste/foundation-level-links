@@ -24,7 +24,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Mini-Quality Attribute Workshop](https://www.neverletdown.net/p/mini-quality-attribute-workshop.html)
 - [Blog-Post "Identifikation von Qualitätsanforderungen mit Quality Storming"](https://www.innoq.com/de/articles/2020/03/quality-storming-workshop/)
 - [Talk zu "Quality Storming"](https://www.youtube.com/watch?v=xEZo5hkoN6w&t=3105s)
-- [arc42 Quality Model]()https://quality.arc42.org/)
+- [arc42 Quality Model](https://quality.arc42.org/)
 - [arc42 Quality Requirements](https://quality.arc42.org/requirements/)
 - [arc42 Beispiele für Qualitätsanforderungen](https://github.com/arc42/quality-requirements/releases/download/v0.7.6/index.pdf)
 
