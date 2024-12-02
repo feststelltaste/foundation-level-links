@@ -48,9 +48,6 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Sam Newman: Monolith Decomposition Patterns](https://www.youtube.com/watch?v=9I9GdSQ1bbM) - (Technische) Strategien und Muster für die effektive Zerlegung von monolithischen Anwendungen in Microservices.
 - [Folien "Das tapfere Schneiderlein – Sieben Schnitte auf einen Streich"](https://speakerdeck.com/feststelltaste/das-tapfere-schneiderlein-sieben-schnitte-auf-einen-streich) - Präsentationsfolien zu meinem Vortrag, der sieben+ verschiedene Ansätze zur Zerlegung von Systemen in besser handhabbare Komponenten diskutiert (inkl. Probleme, die man sich damit potenziell einfängt).
 
-## Themen rund um das Training
-*nach Trainingsablauf sortiert*
-
 ### Querschnittliche Konzepte
 - [Software Architecture in Practice](https://www.pearson.de/software-architecture-in-practice-9780136885672) - Umfassenden Überblick über Lösungsansätze für qualitätsgetriebene Softwarearchitektur inkl. praxisnahen Beispielen.
 - [Übersicht "Qualitätstaktiken" (Beta-Version)](https://nextcloud.innoq.io/index.php/s/cj9YNKbMaBjmK3Q/download) - Sammlung von hunderten Ansätze zur Umsetzung passgenauer Softwarequalität, sortiert nach der ISO 25010:2011 (Sammlung ist aktuell in der Beta-Version).
