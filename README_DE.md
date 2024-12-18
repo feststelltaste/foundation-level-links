@@ -7,6 +7,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [iSAQB Website](https://www.isaqb.org/) - Offizielle Seite des International Software Architecture Qualification Board mit Informationen zu Zertifizierungen und Schulungen.
 - [Foundation Level Lehrplan](https://public.isaqb.org/curriculum-foundation/curriculum-foundation-de.html) - Detaillierter Lehrplan für das iSAQB Foundation Level, der die erforderlichen Kenntnisse und Kompetenzen beschreibt.
 - [Beispielprüfung](https://public.isaqb.org/#_mock_examination) - Beispielhafte, ehemalige Prüfungsfragen zur Vorbereitung auf die iSAQB Foundation Level Zertifizierung.
+- [Inoffizielle, kommentierte Version der Beispielprüfung](https://gist.github.com/feststelltaste/ce4db20815e6bfd2bacdecf05311a8b0) - Ehemalige, überarbeitete Prüfungsfragen inkl. einer kurzen Erläuterung der falschen und richtigen Antworten.
 
 ### Softwarearchitektur & Evolution
 - [TOP 5 "Softwarearchitektur"](https://www.feststelltaste.de/top5-software-architecture/) - Meine persönliche Empfehlungen für den Einstieg in die Softwarearchitektur mit hilfreichen Ressourcen und Literaturhinweisen (neben meinem Training natürlich 😉).
@@ -39,6 +40,8 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 ### Domain-Driven Design
 - [Buch "Learning Domain-Driven Design"](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) - Leitfaden zum Erlernen von Domain-Driven Design mit praxisnahen Beispielen.
 - [Buch "Einführung in Domain-Driven Design"](https://dpunkt.de/produkt/einfuehrung-in-domain-driven-design/) - Einsteigerbuch zur Einführung in die Prinzipien des Domain-Driven Design.
+- [Beispiel eines Event Stormings](https://github.com/TheKataLog/BluzBrothers/blob/main/EventStorming/EventStorming.md) - Schritt für Schritt Durchführung eines Event Stormings inkl. Überleitung in erste Bausteine.
+- [Anleitung zu Big Picture Event Storming](https://mrpicky.dev/this-could-be-the-biggest-post-about-big-picture-event-storming-ever-and-with-examples/) - Vorstellung und Beispiel eines Event Stormings auf grober, fachlicher Ebene zur ersten Klärung der fachlichen Begebenheiten.
 
 ### Schnittheuristiken
 - [Blog-Post "Heuristics for Identifying Service Boundaries"](https://www.opencredo.com/blogs/identify-service-boundary-heuristics/) - Dieser Artikel diskutiert verschiedene Heuristiken zur Identifizierung von Service-Grenzen in Microservice-Architekturen, unter Berücksichtigung von Domänen, Organisationsstrukturen und zeitlichen Aspekten. 
