@@ -69,6 +69,8 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Entwurfsmuster von Kopf bis Fuß](https://dpunkt.de/produkt/entwurfsmuster-von-kopf-bis-fuss-2/) - Praxisnahe und unterhaltsame Einführung in Design Patterns, um flexible, wartbare und objektorientierte Software zu entwickeln, und vermittelt das Wissen durch anschauliche Beispiele, Übungen und visuellen Erklärungen.
 - [Design Patterns Catalogue](https://refactoring.guru/) - Design Patterns mit Erklärungen und praktischen Anwendungsbeispielen.
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Design Patterns speziell für die Spieleprogrammierung.
+- [Udi Dahan - Advanced Distributed Systems Design (Online-Trainingskurs)](https://learn.particular.net/courses/adsd-online) - Schulung (manchmal auch kostenlos online einsehbar) über wirklich sehr tiefgehende Themen rund um verteilte Systeme.
+
 
 ### Dokumentation
 - [Living Documentation "SalesPoint"-Beispiel-Doku](https://st.inf.tu-dresden.de/SalesPoint/salespoint-reference.html) - Ein Beispiel für lebendige, semiautomatisiert-generierte Dokumentation anhand eines kleinen Projekts.
