@@ -61,8 +61,10 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Architecture Antipatterns Vortrag](https://www.youtube.com/watch?v=ODlFArBQLBU) - Vortrag über häufige Architektur-Anti-Patterns und sowie Strategien zu deren Vermeidung.
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - Ein humorvolles Beispiel, das zeigt, wie Einfachheit durch den massiven Einsatz von Mustern vermieden werden kann.
 - [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) - Mustersprache für Nachrichten-basierte Architekturen (und insb. für die Integration von Unternehmensanwendungen).
+- [Awesome Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture) - Kuratierte Sammlung von Links und Ressourcen zum Thema event-getriebenen Softwarearchitekturen
 - [Modern Banking in 1500 Microservices](https://www.infoq.com/presentations/monzo-microservices/) - Erfahrungen der Monzo Bank beim Einsatz (und den Tradeoffs bei der Entwicklung und dem Betrieb) von tausenden Microservices.
-- [Microservices Patterns](https://microservices.io/patterns/index.html) - Mustern für die Implementierung von Microservices-Architekturen.
+- [Microservices Patterns](https://microservices.io/patterns/index.html) - Umfangreiche Mustersammlung für die Implementierung von Microservices-Architekturen.
+- [KRAZAM: Microservices](https://www.youtube.com/watch?v=y8OnoxKotPQ) - Humorvolles Video, welches zeigt, wie Microservices auch nach hinten losgehen können.
 - [Macroservices aka Self-contained Systems](https://scs-architecture.org/) - Architekturstil mit größeren Teilsystemen, der zwischen Microservices und Modulithen liegt, wobei die Systembeteiligten über das Netzwerk kommunizieren und meist über das Frontend miteinander integriert sind.
 - [Entwurfsmuster von Kopf bis Fuß](https://dpunkt.de/produkt/entwurfsmuster-von-kopf-bis-fuss-2/) - Praxisnahe und unterhaltsame Einführung in Design Patterns, um flexible, wartbare und objektorientierte Software zu entwickeln, und vermittelt das Wissen durch anschauliche Beispiele, Übungen und visuellen Erklärungen.
 - [Design Patterns Catalogue](https://refactoring.guru/) - Design Patterns mit Erklärungen und praktischen Anwendungsbeispielen.
