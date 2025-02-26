@@ -37,11 +37,6 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Buch "Softwarearchitekturen pragmatisch dokumentieren"](https://www.innoq.com/de/books/softwarearchitekturen-pragmatisch-dokumentieren-eine-kompakte-einfuehrung-in-arc42/) - Kurze, beispielorientierte Einführung in die Dokumentation mittels arc42.
 - [arc42 Doku in (zu?) umfangreich](https://drive.google.com/file/d/12955ZD5KblknRKKVFmzPwvYjKIASh0k3/view?usp=drive_web) - Beispiel einer umfangreichen arc42-Dokumentation anhand einer Software zur Bestellung von Fotoprodukten.
 
-### Domain-Driven Design
-- [Buch "Learning Domain-Driven Design"](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) - Leitfaden zum Erlernen von Domain-Driven Design mit praxisnahen Beispielen.
-- [Buch "Einführung in Domain-Driven Design"](https://dpunkt.de/produkt/einfuehrung-in-domain-driven-design/) - Einsteigerbuch zur Einführung in die Prinzipien des Domain-Driven Design.
-- [Beispiel eines Event Stormings](https://github.com/TheKataLog/BluzBrothers/blob/main/EventStorming/EventStorming.md) - Schritt für Schritt Durchführung eines Event Stormings inkl. Überleitung in erste Bausteine.
-- [Anleitung zu Big Picture Event Storming](https://mrpicky.dev/this-could-be-the-biggest-post-about-big-picture-event-storming-ever-and-with-examples/) - Vorstellung und Beispiel eines Event Stormings auf grober, fachlicher Ebene zur ersten Klärung der fachlichen Begebenheiten.
 
 ### Schnittheuristiken
 - [Blog-Post "Heuristics for Identifying Service Boundaries"](https://www.opencredo.com/blogs/identify-service-boundary-heuristics/) - Dieser Artikel diskutiert verschiedene Heuristiken zur Identifizierung von Service-Grenzen in Microservice-Architekturen, unter Berücksichtigung von Domänen, Organisationsstrukturen und zeitlichen Aspekten. 
@@ -50,6 +45,14 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Mark Richards: Decomposition Patterns](https://www.youtube.com/watch?v=wiWjX9yaXTY) - Vortrag über verschiedene Muster zur Zerlegung von Monolithen in Microservices inkl. Diskussion deren Vor- und Nachteile.
 - [Sam Newman: Monolith Decomposition Patterns](https://www.youtube.com/watch?v=9I9GdSQ1bbM) - (Technische) Strategien und Muster für die effektive Zerlegung von monolithischen Anwendungen in Microservices.
 - [Folien "Das tapfere Schneiderlein – Sieben Schnitte auf einen Streich"](https://speakerdeck.com/feststelltaste/das-tapfere-schneiderlein-sieben-schnitte-auf-einen-streich) - Präsentationsfolien zu meinem Vortrag, der sieben+ verschiedene Ansätze zur Zerlegung von Systemen in besser handhabbare Komponenten diskutiert (inkl. Probleme, die man sich damit potenziell einfängt).
+
+
+### Domain-Driven Design
+- [Buch "Learning Domain-Driven Design"](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) - Leitfaden zum Erlernen von Domain-Driven Design mit praxisnahen Beispielen.
+- [Buch "Einführung in Domain-Driven Design"](https://dpunkt.de/produkt/einfuehrung-in-domain-driven-design/) - Einsteigerbuch zur Einführung in die Prinzipien des Domain-Driven Design.
+- [Beispiel eines Event Stormings](https://github.com/TheKataLog/BluzBrothers/blob/main/EventStorming/EventStorming.md) - Schritt für Schritt Durchführung eines Event Stormings inkl. Überleitung in erste Bausteine.
+- [Anleitung zu Big Picture Event Storming](https://mrpicky.dev/this-could-be-the-biggest-post-about-big-picture-event-storming-ever-and-with-examples/) - Vorstellung und Beispiel eines Event Stormings auf grober, fachlicher Ebene zur ersten Klärung der fachlichen Begebenheiten.
+
 
 ### Querschnittliche Konzepte
 - [Software Architecture in Practice](https://www.pearson.de/software-architecture-in-practice-9780136885672) - Umfassenden Überblick über Lösungsansätze für qualitätsgetriebene Softwarearchitektur inkl. praxisnahen Beispielen.
