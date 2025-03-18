@@ -128,3 +128,15 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Keine Angst vor dem Endgegner: Verbesserungsideen dem Management erklären](https://www.youtube.com/watch?v=VlvhjtwZ790) - Ein Vortrag, der Strategien aufzeigt, wie man Verbesserungsideen für Legacy-Systeme dem Management erfolgreich vermittelt.
 - [Meine TOP 5 Empfehlungen zum Einstieg in "Legacy Systems"](https://www.feststelltaste.de/top5-legacysystems/) - Meine persönliche Empfehlungen für den Einstieg in das Thema Legacy-Systeme.
 - [Architecture Improvement Method aim42](https://aim42.github.io/) - Eine Methode zur systematischen Verbesserung von Softwarearchitekturen aus dem arc42-Umfeld.
+
+# iSAQB Advanced Level Zertifizierung
+
+Diese Ressourcen bieten umfassende Informationen und Unterstützung für die Vorbereitung auf die iSAQB Advanced Level Zertifizierung:
+
+- [iSAQB Advanced Level Zertifizierung](https://www.isaqb.org/de/zertifizierungen/zertifizierungen-uebersicht/cpsa-advanced-level/) - Das offizielle Ausbildungsprogramm des iSAQB für die CPSA-Advanced-Level-Zertifizierung, das umfassende Fähigkeiten und Kenntnisse in Softwarearchitektur vermittelt und prüft.
+- [socreatory Advanced Level Modulbaukasten](https://www.socreatory.com/de/isaqb-modules) - Ein interaktiver Baukasten, mit dem du dir deinen individuellen Ausbildungsweg zum iSAQB® Certified Professional for Software Architecture – Advanced Level zusammenstellen kannst.
+- [Eine Architektur entwerfen – iSAQB Advanced Beispielaufgabe (Software Architektur im Stream)](https://software-architektur.tv/2022/04/29/folge117.html) - In dieser Episode wird eine konkrete Architekturaufgabe besprochen, basierend auf der iSAQB-Advanced-Level-Beispielaufgabe "Big Spender".
+- [iSAQB Advanced Level examination anti-patterns](https://www.innoq.com/en/blog/2021/03/isaqb-advanced-exam-antipatterns/) - Dieser Blogbeitrag beschreibt häufige Fehler, die bei der iSAQB Advanced Level Prüfung vermieden werden sollten.
+- [INNOQ Technology Lunch: iSAQB Advanced Level Prüfung](https://www.youtube.com/watch?v=Vr_OG7tSoRU) - Ein Video, das Einblicke und Tipps zur Vorbereitung auf die iSAQB Advanced Level Prüfung bietet.
+- [Tipps zur iSAQB CPSA-A-Prüfung](https://gerritbeine.de/2021/tipps-zur-isaqb-cpsa-a-prufung/) - Ein Blogbeitrag mit praktischen Ratschlägen zur erfolgreichen Absolvierung der iSAQB CPSA-A-Prüfung.
+- [Intensivvorbereitung für die iSAQB CPSA-A-Prüfung](https://www.socreatory.com/de/trainings/isaqb-intensiv-ssa/events/0af247d8499b) - Ein Trainingsangebot zur gezielten Vorbereitung auf die iSAQB CPSA-A-Prüfung.
