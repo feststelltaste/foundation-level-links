@@ -129,7 +129,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Meine TOP 5 Empfehlungen zum Einstieg in "Legacy Systems"](https://www.feststelltaste.de/top5-legacysystems/) - Meine persönliche Empfehlungen für den Einstieg in das Thema Legacy-Systeme.
 - [Architecture Improvement Method aim42](https://aim42.github.io/) - Eine Methode zur systematischen Verbesserung von Softwarearchitekturen aus dem arc42-Umfeld.
 
-# iSAQB Advanced Level Zertifizierung
+### iSAQB Advanced Level Zertifizierung
 
 Diese Ressourcen bieten umfassende Informationen und Unterstützung für die Vorbereitung auf die iSAQB Advanced Level Zertifizierung:
 
