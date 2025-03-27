@@ -79,6 +79,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Living Documentation "SalesPoint"-Beispiel-Doku](https://st.inf.tu-dresden.de/SalesPoint/salespoint-reference.html) - Ein Beispiel für lebendige, semiautomatisiert-generierte Dokumentation anhand eines kleinen Projekts.
 - [Living Documentation "SalesPoint" - Code-Beispiel](https://github.com/st-tu-dresden/salespoint/blob/10.0.0/src/main/java/org/salespointframework/inventory/InventoryItem.java) - Ein Code-Beispiel aus dem SalesPoint-Projekt zur Veranschaulichung von lebendigen Dokumentation.
 - [docToolchain](https://doctoolchain.org/docToolchain/v2.0.x/015_tasks/03_tasks.html) - Werkzeug zur Integration und Automatisierung der Softwaredokumentation (mit AsciiDoc als Zwischenformat)
+- [A Dozen Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=HRa3bbaUpSc8) - Zwölf Strategien, um die Schreibproduktivität zu steigern, insbesondere bei der Verwendung der AsciiDoc-Auszeichnungssprache.
 
 ### Architekturbewertung
 - [embarc Architektur-Spicker zu "Architekturbewertung"](https://www.embarc.de/img/spicker/Architektur-Spicker4_Architektur-Reviews.pdf) - Spickzettel mit wichtigen Punkten und Methoden zur Bewertung von Softwarearchitekturen inkl. Widersprüchen bzgl. Qualitätszielen.
