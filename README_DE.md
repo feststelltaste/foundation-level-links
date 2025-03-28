@@ -50,6 +50,8 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 ### Domain-Driven Design
 - [Buch "Learning Domain-Driven Design"](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) - Leitfaden zum Erlernen von Domain-Driven Design mit praxisnahen Beispielen.
 - [Buch "Einführung in Domain-Driven Design"](https://dpunkt.de/produkt/einfuehrung-in-domain-driven-design/) - Einsteigerbuch zur Einführung in die Prinzipien des Domain-Driven Design.
+- [DDD Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) - Ein Leitfaden, der Schritt für Schritt das Erlernen und praktische Anwenden von Domain-Driven Design unterstützt, von der Ausrichtung am Geschäftsmodell bis zur Implementierung eines Domänenmodells.
+- [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts) - Werkzeug zur Visualisierung der strategischen Bedeutung von (Sub-)Domänen oder Geschäftsfähigkeiten, um Investitionsentscheidungen für den Entwurf und der Implementierung von Softwaresystemen zu treffen.
 - [Beispiel eines Event Stormings](https://github.com/TheKataLog/BluzBrothers/blob/main/EventStorming/EventStorming.md) - Schritt für Schritt Durchführung eines Event Stormings inkl. Überleitung in erste Bausteine.
 - [Anleitung zu Big Picture Event Storming](https://mrpicky.dev/this-could-be-the-biggest-post-about-big-picture-event-storming-ever-and-with-examples/) - Vorstellung und Beispiel eines Event Stormings auf grober, fachlicher Ebene zur ersten Klärung der fachlichen Begebenheiten.
 
