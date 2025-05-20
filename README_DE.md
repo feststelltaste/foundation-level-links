@@ -14,6 +14,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [TOP 5 "Softwarearchitektur"](https://www.feststelltaste.de/top5-software-architecture/) - Meine persönliche Empfehlungen für den Einstieg in die Softwarearchitektur mit hilfreichen Ressourcen und Literaturhinweisen (neben meinem Training natürlich 😉).
 - [TOP 5 "Wardley Maps"](https://www.feststelltaste.de/top-5-learning-wardley-maps/) - Meine persönliche Empfehlungen für das Erlernen von Wardley Maps (einer Methode zur Visualisierung von Strategien und der Evolution von Softwaresystemen und deren Architekturen).
 - [Vortrag "Evolutionäre Softwarequalität"](https://www.innoq.com/de/talks/2023/02/evolutionaere-softwarequalitaet-oop-2023-digital/) - Über die Notwendigkeit der kontinuierlichen Verbesserung der Softwarequalität im Laufe der Zeit.
+- [Folien zu "Evolutionsbasierte Softwarearchitekturentwicklung"](https://speakerdeck.com/feststelltaste/evolutionsbasierte-softwarearchitekturentwicklung-oop-2025) - Wie sich die Herangehensweise an Softwarearchitektur je nach Evolutionsgrad eines Systems verändert und welche Architekturstrategien in welcher Phase sinnvoll sind.
 - [Artikel "Softwarequalität im Kontext von Wertschöpfung und Evolution"](https://www.innoq.com/de/blog/2021/10/quality-value-chain-evolution/) - Diskussion über die Bedeutung der Softwarequalität im Zusammenhang mit Wertschöpfung und der Evolution von Systemen.
 
 ### Stakeholder
