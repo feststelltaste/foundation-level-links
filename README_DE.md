@@ -62,6 +62,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 - [Software Architecture in Practice](https://www.pearson.de/software-architecture-in-practice-9780136885672) - Umfassenden Überblick über Lösungsansätze für qualitätsgetriebene Softwarearchitektur inkl. praxisnahen Beispielen.
 - [Übersicht "Qualitätstaktiken" (Beta-Version)](https://nextcloud.innoq.io/index.php/s/cj9YNKbMaBjmK3Q/download) - Sammlung von hunderten Ansätze zur Umsetzung passgenauer Softwarequalität, sortiert nach der ISO 25010:2011 (Sammlung ist aktuell in der Beta-Version).
 - [Qualitätstaktiken](https://leanpub.com/qualitaetstaktiken) - Umfangreiche Sammlung von Taktiken zur Sicherstellung und Verbesserung der Softwarequalität.
+- [YouTube-Kanal von predic8](https://www.youtube.com/@predic8) - Tutorials und Informationen zu zahlreichen querschnittlichen Konzepten mit extrem guten Erklärungen.
 
 ### Muster
 - [Architecture Anti-Patterns Microsite](https://architecture-antipatterns.tech/) - Eine Sammlung von Anti-Patterns in der Softwarearchitektur mit Beschreibungen und Empfehlungen zur Vermeidung.
