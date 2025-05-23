@@ -88,6 +88,7 @@ Diese Seite listet meine geteilten und ergänzenden Links für Teilnehmenden mei
 
 ### Architekturbewertung
 - [embarc Architektur-Spicker zu "Architekturbewertung"](https://www.embarc.de/img/spicker/Architektur-Spicker4_Architektur-Reviews.pdf) - Spickzettel mit wichtigen Punkten und Methoden zur Bewertung von Softwarearchitekturen inkl. Widersprüchen bzgl. Qualitätszielen.
+- [embarc LASR - Lightweight Approach for Software Reviews](https://www.embarc.de/themen/lasr-reviews/) - Leichtgewichtige Architekturbewertungsmethodik mit Fokus auf Qualität und Risiken.
 - [Pragmatic Evaluation of Software Architectures](https://link.springer.com/book/10.1007/978-3-319-34177-4) - Praxisorientiertes Buch mit vielen pragmatische Ansätze zur Bewertung von Softwarearchitekturen im Frage- und Antwort-Stil.
 
 ## Spezialthemen
